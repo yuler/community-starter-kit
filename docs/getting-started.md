@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here! Be sure to follow the issue template!
