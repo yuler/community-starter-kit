@@ -37,3 +37,6 @@ firstPRMergeComment: >
 
 newIssueWelcomeComment: >
   Thanks for opening your first issue here! Be sure to follow the issue template!
+
+firstPRMergeComment: >
+  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
